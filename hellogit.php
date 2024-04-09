@@ -1,7 +1,9 @@
 <?php 
 
-$nombre = "Andres 22222222";
-echo "Hello Git".$nombre;
+$nombre = "Andres";
+$apellido="Pineda";
+
+echo "Hello Git".$nombre." ".$apellido;
 
 
 ?>
